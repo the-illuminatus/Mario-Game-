@@ -1,8 +1,10 @@
-![project-2](https://github.com/user-attachments/assets/f7a5b777-ee71-48f7-828a-7c389f143512)# Mario JS
+# Mario JS
+
+![project-2](https://github.com/user-attachments/assets/539a10d3-e14e-4e21-b08b-bc09a16b887d)
 
 Javascript implementation of super mario bros
 
-![project-2](https://github.com/user-attachments/assets/539a10d3-e14e-4e21-b08b-bc09a16b887d)
+![proj-2](https://github.com/user-attachments/assets/41e79249-b011-403b-bc3a-a062d93c47ec)
 
 
 #Mario Mario.js is a clone of Super Mario Bros. for the Nintendo Entertainment System, implemented in Javascript. It implements a hand-built game engine using the HTML5 Canvas.
